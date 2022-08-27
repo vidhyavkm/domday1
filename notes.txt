@@ -1,0 +1,45 @@
+what is DOM => Document object model.
+
+All the HTML elements can be created in JS file. 
+All the elements are created dynamically.
+
+inbuilt:
+
+createelement
+setattributes
+queryselector,queryselectorall
+getelementbyid,getelementbyclassname.
+append,appendchild
+
+innertext, innerhtml
+
+retrieves and sets the content in plaintext// retrieves and sets the content in HTMl format
+can insert the HTML tags// cant insert the tags.
+consider spaces// dont consider spaces
+returns text with innerelement tag// returns without element tags.
+
+append vs appendchild
+
+append allows to add multiple elemets// allows only sinfgle element
+we can use append at where we are using append child but not viceversa.
+
+setattributes:
+
+to create id and class
+we can create only one class or id
+syntax: setattribute(attributename, class or id name)
+
+classlist:
+classlist.add(classnames)
+if we want to append mulitple classes , use classlist
+
+getelementbyclassname & getelementbyid
+
+to design or to code an elemnt by 
+using its id or classname we can use these keywords.
+
+queryselctor vs queryselectorall
+
+if we want to select or choose a particular text (first)in a document or dropdown
+
+if we want to select all the elemets we can go for qsall.

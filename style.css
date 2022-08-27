@@ -1,0 +1,22 @@
+h1{
+    background-color: red;
+    /* color:blueviolet; */
+}
+.heading{
+    color:blue;
+    text-align: center;
+
+}
+
+.container{
+    font-size: large;
+    font-style: italic;
+    text-shadow: 5px;
+    text-align: center;
+    color: aquamarine;
+}
+
+#test1{
+    font-size: 50px;
+    color:aqua
+}
